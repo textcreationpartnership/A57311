@@ -1,0 +1,310 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To all who imprison &amp; persecute the saints and servants of God for meeting together in his name, and fear, to worship him as he requireth.</title>
+            <author>Rigge, Ambrose, 1635?-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57311</idno>
+            <idno type="STC">Wing R1495</idno>
+            <idno type="STC">ESTC R17447</idno>
+            <idno type="EEBO-CITATION">12435714</idno>
+            <idno type="OCLC">ocm 12435714</idno>
+            <idno type="VID">62021</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57311)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62021)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 947:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To all who imprison &amp; persecute the saints and servants of God for meeting together in his name, and fear, to worship him as he requireth.</title>
+                  <author>Rigge, Ambrose, 1635?-1705.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Wilson ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint taken partially from colophon.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Doctrines.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:62021:1"/>
+            <pb n="1" facs="tcp:62021:1"/>
+            <head>To all who IMPRISON &amp; PERSECUTE THE Saints and Servants of GOD, for Meeting together in
+his Name and Fear, to Worſhip him as he Requireth.</head>
+            <p>THe hour cometh, and now is, wherein the true Worſhippers do worſhip the Father in Spi<g ref="char:EOLhyphen"/>rit,
+and in Truth, who witneſs the Propheſie of Chriſt fulfilled, <hi>John</hi> 4. 23. And ſuch
+al<g ref="char:EOLhyphen"/>ſo do witneſs with the Servants of God in the days of old, That God who made the World, and
+all Things therein, dwelleth not in Temples made with Hands, neither is he Worſhipped with Mens
+Hands, <hi>Acts</hi> 17. This God is an unlimited Spirit, and there<g ref="char:EOLhyphen"/>fore his worſhip cannot be
+limited to any <hi>particular Houſe</hi> or <hi>Place.</hi> Though <hi>a Temple</hi> was
+commanded to be <hi>Builded</hi> at <hi>Jeruſalem</hi> once, unto which all the Regions of the
+Jews were to be gathered, and to worſhip; yet when Chriſt the Son of God came into the World,
+he Propheſied the Deſtruction of it, and ſaid <hi>Their Houſe ſhould be left unto them
+Deſolate, Mat.</hi> 23. 38. And for this the Jews ſlew him. And he gathered great Multitudes,
+ſometimes upon <hi>the Mountaines,</hi> ſometimes <hi>by the Seaſhore,</hi> and ſome<g ref="char:EOLhyphen"/>times
+<hi>in Houſes;</hi> And they that were his Miniſters, ſent forth and Authoriſed by him, did
+not <hi>limit</hi> People unto <hi>ſuch</hi> and <hi>ſuch Temples</hi> and <hi>Houſes,</hi>
+ſet up in <hi>ſuch</hi> and <hi>ſuch Pariſhes,</hi> called <hi>Churches;</hi> but taught
+People <hi>Publiquely,</hi> from <hi>Houſe</hi> to <hi>Houſe,</hi> teſtifying to the Jews,
+and alſo to the Greeks, <hi>Repentance to<g ref="char:EOLhyphen"/>wards God, and Faith towards Jeſus Chriſt,</hi>
+Acts 20. 20, 21.
+<pb n="2" facs="tcp:62021:2"/>
+And Chriſt ſaid, <hi>Where two or three are ga<g ref="char:EOLhyphen"/>thered together in my Name, there am I in the
+midſt of them,</hi> Mat. 18. 20. Now he did not limit in what Place People ſhould be gathered
+together; for as he was no Reſpecter <hi>of Perſons,</hi> ſo he was no Reſpecter <hi>of
+Pla<g ref="char:EOLhyphen"/>ces;</hi> and Paul <hi>Dwelt two whole years in his own hired Houſe, and received all that
+came in unto him, Preach<g ref="char:EOLhyphen"/>ing the Kingdom of God, and teaching thoſe things which concern the Lord
+Jeſus Chriſt, with all confi<g ref="char:EOLhyphen"/>dence, no man forbidding him,</hi> Acts 28. 30, 31. Here was
+Preaching the Kingdom of God <hi>in a Houſe,</hi> and a Meeting <hi>in a Houſe,</hi> and not
+forbidden, as it is in theſe our dayes; neither was he Perſecuted for Preaching <hi>in his own
+hired Houſe:</hi> And the ſame Apoſtle did greet the Church that was in <hi>Aquilla</hi> and
+<hi>Priſcilla's Houſe,</hi> Rom. 16. 5. And <hi>Paul</hi> again writing to the Corinthians,
+ſaid that the Church <hi>in Aquilla's Houſe</hi> did ſalute them, 1 <hi>Cor.</hi> 16. 19.</p>
+            <p>Now here was gathering <hi>in Houſes</hi> in the Primitive times as we may read of, which was
+approved of God, and of his Miniſters, under the Goſpell, and were not haled out of their
+Houſes by any, except by <hi>Saul</hi> and the like, who made havock of the Church, entring into
+every Houſe, and haling Men and Women, and Com<g ref="char:EOLhyphen"/>mitted them to Priſon, as we may read in
+<hi>Act.</hi> 8. 3. Here are <hi>many Sauls</hi> in theſe our dayes abroad in the World, who go
+under a better Name, and would be counted Chriſtians, but are walking in the ſame ſteps that
+<hi>saul</hi> the Perſecutor of the Saints did, entring into Mens Houſes, and haling Men and
+Wo<g ref="char:EOLhyphen"/>men, and committing them to Priſon for Meeting together, in their own Houſes, peacoably to
+worſhip the Lord, in Spirit and Truth; and would have them
+<pb n="3" facs="tcp:62021:2"/>
+to promiſe to do ſo no more; which I do not read that <hi>Saul</hi> did do; So you manifeſt
+your ſelves to be worſe than him; And in the dayes of the Prophet <hi>Malachi, They that feared
+the Lord met of<g ref="char:EOLhyphen"/>ten together, and ſpake one to another;</hi> and the Lord ſaid, <hi>They
+ſhould be his, in the day that he made up his Jewels;</hi> and <hi>Paul</hi> Preached unto the
+People till mid<g ref="char:EOLhyphen"/>night, <hi>in an upper Chamber,</hi> where they were gathe<g ref="char:EOLhyphen"/>red together,
+<hi>Acts</hi> 20. 7, 8. And we do not read that the Magiſtrates ſent <hi>Conſtables</hi> to
+break up their Meeting, neither did they limit them <hi>to a Parochial Church,</hi> as it is now
+called; and <hi>Paul</hi> writing to the <hi>Coloſſians,</hi> ſaluted the Brethren which were
+at <hi>Lao<g ref="char:EOLhyphen"/>dicea,</hi> and <hi>Nymphas,</hi> and the Church, <hi>which in his Houſe,</hi> Col. 4.
+15.</p>
+            <p>Now none of theſe Aſſemblies were forbidden, nei<g ref="char:EOLhyphen"/>ther broken up by rude Men, as many
+Chriſtian Aſ<g ref="char:EOLhyphen"/>ſemblies are now, who Meet together for no other end, but to Worſhip God in
+Spirit and Truth, ac<g ref="char:EOLhyphen"/>cording to the Scriptures of Truth; and <hi>Paul</hi> writing to
+<hi>Timothy,</hi> ſaid, <hi>He willed that Men Pray every where, lifting up Holy Hands, without
+Wrath and Doubting,</hi> 1 Tim. 2. 8. He did not limit Men to <hi>ſuch</hi> and <hi>ſuch
+Places</hi> to Pray in, as this Generation of Men do; and <hi>Daniel</hi> kneeled down upon his
+Knees three times a Day in his Houſe, and Prayed, and gave Thanks before his God, as he did
+aforetime, though the King had Signed <hi>a Writing,</hi> and <hi>a Decree</hi> to the contrary,
+<hi>Dan.</hi> 6. 9, 10, 11. For which he was caſt into the Den of Lyons, <hi>Dan.</hi> 6. 16. Now
+he could not be ſubject to the King, nor his Lords, in forbear<g ref="char:EOLhyphen"/>ing to pray in his own Houſe,
+though he could ſuffer what penalty they inflicted upon him; yet God de<g ref="char:EOLhyphen"/>livered
+<pb n="4" facs="tcp:62021:3"/>
+him out of the Lyons Mouthes, <hi>Dan.</hi> 6. 22.</p>
+            <p>And the Magiſtrates commanded the Apoſtles <hi>Not to ſpeak at all, nor teach in the Name
+of Jeſus:</hi> but <hi>Peter</hi> and <hi>John</hi> anſwered, and ſaid unto them,
+<hi>Whe<g ref="char:EOLhyphen"/>ther it be right in the ſight of God, to hearken unto you, more than unto God, Judge you?
+for we cannot but ſpeak the things which we have ſeen and heard,</hi> Acts 4. 18, 19, 20. So
+now, you who are commanding things contrary to the Commands of God, whether it be right in the
+ſight of God to obey Him, or Yee? judge of this your ſelves, this thing is no ways different
+from what it was in the dayes of old: and in Acts 12. 12. <hi>Peter</hi> came <hi>to the
+Houſe</hi> of <hi>Mary</hi> the <hi>Mother</hi> of <hi>John,</hi> where many were gathered
+together <hi>Praying:</hi> this was not called an Unlawfull Aſſembly by him, neither forbidden,
+as ſuch Aſſemblies are now by them, who proſeſs themſelves Chriſtians and
+Mini<g ref="char:EOLhyphen"/>ſters of the Goſpell; but their end ſhall be according <hi>to their Works,</hi> not
+according <hi>to their Words;</hi> for they have gotten <hi>the good Words,</hi> and the <hi>fair
+speeches,</hi> and by them have long deceived the Hearts of the Simple, but the day is broken
+forth, which hath dis<g ref="char:EOLhyphen"/>covered all their evill Deeds: Therefore all you Rulers and Magiſtrates, of
+what Degree ſoever, Take heed what you now are doing; for if this thing which you are now
+ſtriving againſt <hi>be of God,</hi> you cannot <hi>de<g ref="char:EOLhyphen"/>ſtroy it;</hi> but if not, <hi>It will
+come to nothing of it ſelfe.</hi> But in the mean time, take heed that you be not Figh<g ref="char:EOLhyphen"/>ters
+againſt God, for in as much as you have done this, to the leaſt of his Children and Servants,
+you have done it to him, for ſo it will be laid to your charge, in the Day of his Account; Be not
+<hi>High-mind<g ref="char:EOLhyphen"/>ed,</hi> nor <hi>Stout-hearted</hi> againſt the Lord, nor any of
+<pb n="5" facs="tcp:62021:3"/>
+his Choſen Ones, who Aſſemble together in his Name and Fear, in Peace with Him and all Men,
+and <hi>Dare not forſake the Aſſembling of themſelves to<g ref="char:EOLhyphen"/>gether, as the manner of ſome
+is, leſt they ſhould looſe the Sence and Feeling of the Preſence of the Lord, which hath
+been often manifeſted in their Aſſem<g ref="char:EOLhyphen"/>blies.</hi>
+            </p>
+            <p>For alwayes the people of God, for Worſhipping of God, were Impriſoned, or Suffered by
+ſuch that Im<g ref="char:EOLhyphen"/>poſed things upon them, that they could not Obey, but Sin againſt God: Therefore
+by <hi>ſuch</hi> they were judged as <hi>Tranſgreſſors</hi> of <hi>Commands</hi> and
+<hi>Laws,</hi> as the <hi>three Children</hi> to <hi>Nebuchadnezzar,</hi> and as <hi>Mordecai</hi>
+to <hi>Haman,</hi> and the <hi>Jews</hi> to the <hi>Heathen,</hi> and the <hi>Chriſtians</hi>
+among the <hi>Jews</hi> and <hi>Heathen,</hi> a<g ref="char:EOLhyphen"/>mongſt whom they witneſſed <hi>Chriſt</hi>
+the <hi>Subſtance;</hi> though the thing that was Juſt and Equall, and righ<g ref="char:EOLhyphen"/>teous in the
+ſight of God, and all Men for Conſcience Sake, and the Lords Sake, they were willing to obey
+and yeeld themſelves to the utmoſt: And likewiſe in <hi>Queen Maries dayes,</hi> the
+<hi>Martyrs</hi> were put <hi>to death</hi> as <hi>Rebels,</hi> becauſe they could not obey her
+Lawes that compelled to her Worſhip, which were contrary to Chriſt, and the Apoſtles
+Doctrine, a<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the true Foundation that was laid
+at the beginning of the Chriſtians; for Chriſt and the Apoſtles did not go on, in the Jews
+forcing Laws, and putting Men to Death that oppoſed them, but ſtood in that in which they had
+love to Enemies; and Chriſt ſaid, <hi>Let the Tares and Wheat grow, and ſtand till
+Harveſt:</hi> for them that go about to pluck up and perſecute, have denied the Exerciſe of
+Patience, and the Do<g ref="char:EOLhyphen"/>ctrine of Repentance, whereby People might have
+<pb n="6" facs="tcp:62021:4"/>
+a Space to Repent; For if the Chriſtians ſhould have put <hi>Saul to Death,</hi> becauſe he
+was <hi>a Blaſphemer,</hi> and becauſe he was <hi>a Heretick,</hi> and Chriſt, if he had
+Baniſhed, or Impriſoned any, or ſpoiled their Goods, then the Chriſtians might have had an
+Example from the Apoſtles, and Chriſt, for Priſoning, and making the Contrary-Minded to
+ſuffer; but that is not Chriſts way, but the <hi>Jewes</hi> and <hi>Heathons Way.</hi> And as
+for Meeting together to Worſhip God in his Fear, that cannot be Offenſive to good Government,
+and to the Creation, but rather a preſerving of it, for ſuch ſeek the Peace of all Men, and
+their Eternall Wel<g ref="char:EOLhyphen"/>fare and Proſperity; which <hi>Ballad-Singers, Stage-Players,</hi> and all
+manner of <hi>Playes,</hi> and <hi>Sports,</hi> and <hi>Games,</hi> theſe Meetings <hi>are not
+good for the Creation,</hi> nor for <hi>a Common-wealth,</hi> by which the Name God is ſo daily
+<hi>Prophaned, &amp; Blaſphemed;</hi> nor theſe Meetings we ſee not broken up <hi>by Armed
+Men, with Clubs and Conſtables,</hi> but they make ſuch a noiſe in the Streets, that people
+can hardly do their buſineſs, or hear one another ſpeake, the Townes are ſo filled with
+<hi>Bal<g ref="char:EOLhyphen"/>lad-Singers,</hi> and things that tend to the ſtirring up Striſe amongſt People,
+Miſ-naming, and Lying, and Slanderi<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of them;
+which its much, that here ſhould be ſuch as are call <hi>Miniſters</hi> and
+<hi>Biſhops,</hi> that profeſs themſelves to be Miniſters of Chriſt, and Preachers of the
+Goſpell, how they can without much Shame or Bluſhing walk in the Streets, to ſee the
+Wickedneſs and Prophaneneſs of their People and Hearers, and ſee what fruits they have.
+Surely though they take upon them theſe Names and Titles, yet they do not regard the
+<hi>Apoſtles, Pauls</hi> and <hi>Pe<g ref="char:EOLhyphen"/>ters</hi> Exhortations: for ſuch things are not of a Good
+<pb n="7" facs="tcp:62021:4"/>
+Report to them, though we can Patiently bear, even as the Lord moves us: For this we know, <hi>That
+every one that Names the Name of our Lord Jeſus Chriſt, ſhould depart from Iniquity.</hi>
+            </p>
+            <p>But as for all Murtherous Plots and Conſpiracies a<g ref="char:EOLhyphen"/>gainſt any, We are, and always have been
+clear, and Innocent, and in the Srength of the Lord are reſol<g ref="char:EOLhyphen"/>ved to ſtand clear to the end;
+for the Weapons of our Warfare are not Carnall but Spirituall, and our Kingdom is not of this
+World, neither is it for an Earthly Crown that we ſtrive: Neither can we re<g ref="char:EOLhyphen"/>joyce at the
+deſtruction of any, but that all may come to the knowledge of God, and be ſaved; but if any of
+us be found in any Unirghteouſneſs, Invaſion, or Inſurrection, in any of our
+Aſſemblies, contrary to Truth and Righteouſneſs, in the ſight of God and all good Men,
+let us ſuffer accordingly: But you turning your Hand againſt Meek, Quiet, Inno<g ref="char:EOLhyphen"/>cent and
+Harmleſs Men, and throwing them into Priſon, who wrong no Man, neither in Thought, Word nor
+Deed, will give a great Occaſion to many, and may turn many againſt you, which otherwiſe
+would not; for if peaceable men cannot be ſuffered to live in Peace with God, their Neighbour,
+and all Men, what Encouragement will this be to all Plotters, and Peace-Breakers? So Conſider in
+Meekneſs, whoſe Work you are now doing; for the Cry of Innocent Blood, &amp; the Oppreſſion
+of ſuch, will be more againſt you than all your enemies: many of your progenitors have fallen
+by ſuch things, by the Stroke of Gods Hand only, though they whom they Oppreſſed did never
+Avenge their own wrong; yet by ſuch things, and for them did God take an Occaſion to vex, and
+ſcourg his and their
+<pb n="8" facs="tcp:62021:5"/>
+Adverſaries, and cut them off in his hot diſpleaſure.</p>
+            <p>
+               <hi>Theſe things are laid before you in tender Love to your Immortall Souls, that you may not
+go on in their ſteps, leſs their and be your reward.</hi>
+            </p>
+            <closer>
+               <signed>This from a True and Faithful Subject in the Kingdom of <hi>England,</hi> who wiſheth
+it's Peaceable Govern<g ref="char:EOLhyphen"/>ment in Righteouſnes called.
+Ambr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us Rigg.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <head>POST SCRIPT.</head>
+            <p>
+               <hi>ANd</hi> the great Noiſeis, <hi>God ſave the King, God bleſs the King,</hi> amongſt
+ſuch as do not fear God, and are not ſencible of Gods bleſſings, nor of his Sal<g ref="char:EOLhyphen"/>vation,
+that be out of Gods fear; which they that would have him Savesl and Bleſſed, and all Men upon
+the Earth, ſuch live in the Fear of God, and depart from Sin and Evill that leads into
+Deſtruction from God, from Bleſſing and Salvation, and they that live in the Fear of God,
+know Salvation, know the Bleſſings, and would have Him and all Men bleſ<g ref="char:EOLhyphen"/>ſed and ſaved:
+but all who live in Sin in <g ref="char:V">Ʋ</g>nrighteouſ<g ref="char:EOLhyphen"/>neſs, in <g ref="char:V">Ʋ</g>ngodlineſs, Curſing, Swearing
+Drunkenneſs, and in <g ref="char:V">Ʋ</g>nrighteous Wayes, and Corrupt, Wicked, and Perverſe and <g ref="char:V">Ʋ</g>nholy Lives,
+ſuch live out of the fear of God, and yet may ſay <hi>God Bleſſe the King,</hi> and <hi>God
+Save the King,</hi> in Deceit, Hypocriſie, and Flattery, and in taking Gods Name in Vain, being
+out of his Fear, which grieves them that are in Truth, and the Fear of God, who can ſay thoſe
+Words in the Truth, and would have all that name the Name of the Lord Jeſus Chriſt, Depart from
+Iniquity, and who would have him Saved, and them Bleſſed, and all Men upon the Earth.</p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>Robert Wilſon</hi> in <hi>Martins Le Grand.</hi>
+            </p>
+            <pb facs="tcp:62021:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
